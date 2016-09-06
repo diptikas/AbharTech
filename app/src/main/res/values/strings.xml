@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AbharTech</string>
+    <string name="tag_msg_id">Message Id</string>
+
+    <array name="popular_city">
+        <item>Bangalore</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Kolkata</item>
+        <item>Navi Mumbai</item>
+        <item>Coimbatore</item>
+    </array>
+
+    <array name="title">
+        <item>Bangalore</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Kolkata</item>
+        <item>Navi Mumbai</item>
+        <item>Coimbatore</item>
+    </array>
+
+</resources>

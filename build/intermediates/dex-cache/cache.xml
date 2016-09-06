@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_f2637d6dce592177a37899a070123c73c97f7ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_e354ed512f3ae5c43fe672c7ba5853c6bb685a8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="2abbf8eaa0012836ddfda5ee301e997f88dadf75">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48d16120bb19f5681366241a566d90a3b1f0570c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_07517dc4cee6b9749faa0949f677ec96f2ca9223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="1c610283e0019f4054cbaf8ef5ad078c4717b637">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02ac02304e3e1569e3048dc68af4d616ff139af8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_c721a59f9534ea0d115e189c11b9a5b75784a9d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_0bf950ff3eb2c860575f65c2953054910572e787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_7e5f9355543fef906905a6016cec3a6b582d5e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6888c448b54c8590f4948216b2391bbe3e4c66a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_f8c7c43ce483805f39e10634aa90da34223d74c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_863919455cf8ed6b5d8c1108694aaab22d2cb634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2e5f4343bc90e90718f0b22fb7818c787d4b12fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_d6c73b0128cdce3f7c534d15922f279014ae131c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_e0ef9b495efc6acc469553b1dc088a4018ca2a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/kenburnsview-1.0.7_904e9877c790875077d93d444c6fc09569be2344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_5df31cb2029d1f71a31c0ea6baa5a79db923d305/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_78b668a47b004a7602a0121dc9ccb86b251b9ea2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_162353e8c971eb3f813242f1fd1210ac609a401f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c1fd94bbebd1ed1ec99c9eea0b99bd7ee8bac325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_294405b6fc64c5e32f96a45ca8415d1be896beb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/diptika/Projects/Projects/Assignment/AbharTech/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_e8f993e90b2d2efff42df28ce23de188fc597d04/classes.dex" />
+    </item>
+
+</items>
